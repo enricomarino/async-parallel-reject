@@ -1,0 +1,13 @@
+{
+  "name": "parallel-reject",
+  "repo": "component-async/parallel-reject",
+  "version": "0.0.0",
+  "description": "async parallel reject",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
