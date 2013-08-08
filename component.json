@@ -1,6 +1,6 @@
 {
-  "name": "parallel-reject",
-  "repo": "component-async/parallel-reject",
+  "name": "async-parallel-reject",
+  "repo": "enricomarino/async-parallel-reject",
   "version": "0.0.0",
   "description": "async parallel reject",
   "keywords": [],
