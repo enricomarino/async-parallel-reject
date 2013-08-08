@@ -1,10 +1,10 @@
-# parallel-reject
+# async-parallel-reject
 
 async parallel reject
 
 ## Installation
 
-    $ component install component-async/parallel-reject
+    $ component install enricomarino/async-parallel-reject
 
 ## License
 
